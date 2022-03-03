@@ -1,0 +1,22 @@
+{
+  "name": "solidify-test",
+  "version": "1.0.0",
+  "description": "AminTiti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AminTi/npm-test.git"
+  },
+  "keywords": [
+    "solidify"
+  ],
+  "author": "Amin Titi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AminTi/npm-test/issues"
+  },
+  "homepage": "https://github.com/AminTi/npm-test#readme"
+}
